@@ -1,4 +1,3 @@
-print("Welcome To Docker")
 from flask import Flask
 from PIL import Image
 
